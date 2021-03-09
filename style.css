@@ -41,19 +41,19 @@ p#currentDay.lead {
   padding-bottom: 10px;
 }
 .hour {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   font-weight: bold;
   height: 79px;
   color: #1f1f1f;
 }
 .past {
-  background-color: #dfe6e9;
+  background-color: #df0d0d;
 }
 .present {
-  background-color: #ff7675;
+  background-color: #0eec2c;
 }
 .future {
-  background-color: #7bed9f;
+  background-color: #2c1bc7;
 }
 .saveBtn {
   border-left: 1px solid #1f1f1f;
