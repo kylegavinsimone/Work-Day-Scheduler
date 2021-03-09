@@ -9,7 +9,6 @@ html {
   font-size: 18px;
   color: #1f1f1f;
 }
-/* Jumbotron */
 h1,
 p.lead {
   font-family: "Poppins", sans-serif;
@@ -28,7 +27,6 @@ p#currentDay.lead {
   white-space: pre-wrap;
 }
 
-/* Calendar */
 .textarea {
   background: transparent;
   resize: none;
